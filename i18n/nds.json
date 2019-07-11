@@ -6,16 +6,16 @@
 			"Servien"
 		]
 	},
-	"vector-action-addsection": "Thema tofögen",
-	"vector-action-delete": "Wegdoon",
-	"vector-action-move": "Schuven",
-	"vector-action-protect": "Schulen",
-	"vector-action-undelete": "Wedderhalen",
-	"vector-action-unprotect": "Siedenschuul ännern",
-	"vector-view-create": "Opstellen",
-	"vector-view-edit": "Ännern",
-	"vector-view-history": "Historie bekieken",
-	"vector-view-view": "Lesen",
-	"vector-view-viewsource": "Borntext bekieken",
-	"vector-more-actions": "Mehr"
+	"ddms-action-addsection": "Thema tofögen",
+	"ddms-action-delete": "Wegdoon",
+	"ddms-action-move": "Schuven",
+	"ddms-action-protect": "Schulen",
+	"ddms-action-undelete": "Wedderhalen",
+	"ddms-action-unprotect": "Siedenschuul ännern",
+	"ddms-view-create": "Opstellen",
+	"ddms-view-edit": "Ännern",
+	"ddms-view-history": "Historie bekieken",
+	"ddms-view-view": "Lesen",
+	"ddms-view-viewsource": "Borntext bekieken",
+	"ddms-more-actions": "Mehr"
 }

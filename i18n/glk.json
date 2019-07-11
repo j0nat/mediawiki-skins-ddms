@@ -5,11 +5,11 @@
 			"شیخ"
 		]
 	},
-	"vector-action-addsection": "تازه مؤضۊع",
-	"vector-action-move": "جابجا گۊدن",
-	"vector-view-create": "چاگۊدن",
-	"vector-view-edit": "دچينواچين",
-	"vector-view-history": "تاریخچهٰ دئن",
-	"vector-view-view": "خؤندن",
-	"vector-more-actions": "ويشتر"
+	"ddms-action-addsection": "تازه مؤضۊع",
+	"ddms-action-move": "جابجا گۊدن",
+	"ddms-view-create": "چاگۊدن",
+	"ddms-view-edit": "دچينواچين",
+	"ddms-view-history": "تاریخچهٰ دئن",
+	"ddms-view-view": "خؤندن",
+	"ddms-more-actions": "ويشتر"
 }

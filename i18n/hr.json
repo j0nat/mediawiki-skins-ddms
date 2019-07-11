@@ -6,17 +6,17 @@
 			"Bugoslav"
 		]
 	},
-	"vector-skin-desc": "Osuvremenjena inačica MonoBooka s obnovljenim dizajnom i mnogim poboljšanjima u upotrebljivosti",
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Izbriši",
-	"vector-action-move": "Premjesti",
-	"vector-action-protect": "Zaštiti",
-	"vector-action-undelete": "Vrati",
-	"vector-action-unprotect": "Promijeni zaštitu",
-	"vector-view-create": "Započni",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Vidi povijest",
-	"vector-view-view": "Čitaj",
-	"vector-view-viewsource": "Vidi izvor",
-	"vector-more-actions": "Više"
+	"ddms-skin-desc": "Osuvremenjena inačica MonoBooka s obnovljenim dizajnom i mnogim poboljšanjima u upotrebljivosti",
+	"ddms-action-addsection": "Dodaj temu",
+	"ddms-action-delete": "Izbriši",
+	"ddms-action-move": "Premjesti",
+	"ddms-action-protect": "Zaštiti",
+	"ddms-action-undelete": "Vrati",
+	"ddms-action-unprotect": "Promijeni zaštitu",
+	"ddms-view-create": "Započni",
+	"ddms-view-edit": "Uredi",
+	"ddms-view-history": "Vidi povijest",
+	"ddms-view-view": "Čitaj",
+	"ddms-view-viewsource": "Vidi izvor",
+	"ddms-more-actions": "Više"
 }

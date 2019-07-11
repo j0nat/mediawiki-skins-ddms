@@ -4,16 +4,16 @@
 			"Malafaya"
 		]
 	},
-	"vector-action-addsection": "Lüükön yegädi",
-	"vector-action-delete": "Moükön",
-	"vector-action-move": "Topätükön",
-	"vector-action-protect": "Jelön",
-	"vector-action-undelete": "Sämoükön",
-	"vector-action-unprotect": "Votükön jeli",
-	"vector-view-create": "Jafön",
-	"vector-view-edit": "Redakön",
-	"vector-view-history": "Logön jenotemi",
-	"vector-view-view": "Reidön",
-	"vector-view-viewsource": "Logön fonäti",
-	"vector-more-actions": "Pluikos"
+	"ddms-action-addsection": "Lüükön yegädi",
+	"ddms-action-delete": "Moükön",
+	"ddms-action-move": "Topätükön",
+	"ddms-action-protect": "Jelön",
+	"ddms-action-undelete": "Sämoükön",
+	"ddms-action-unprotect": "Votükön jeli",
+	"ddms-view-create": "Jafön",
+	"ddms-view-edit": "Redakön",
+	"ddms-view-history": "Logön jenotemi",
+	"ddms-view-view": "Reidön",
+	"ddms-view-viewsource": "Logön fonäti",
+	"ddms-more-actions": "Pluikos"
 }

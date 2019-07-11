@@ -5,16 +5,16 @@
 			"JJohnson1701"
 		]
 	},
-	"vector-action-addsection": "Besettan mearcunge",
-	"vector-action-delete": "Forlēosan",
-	"vector-action-move": "Wegan",
-	"vector-action-protect": "Beorgan",
-	"vector-action-undelete": "Scieppan tramet eft",
-	"vector-action-unprotect": "Andwendan beorgunge",
-	"vector-view-create": "Scieppan",
-	"vector-view-edit": "Ādihtan",
-	"vector-view-history": "Stǣr",
-	"vector-view-view": "Rǣdan",
-	"vector-view-viewsource": "Sēon fruman",
-	"vector-more-actions": "Mā"
+	"ddms-action-addsection": "Besettan mearcunge",
+	"ddms-action-delete": "Forlēosan",
+	"ddms-action-move": "Wegan",
+	"ddms-action-protect": "Beorgan",
+	"ddms-action-undelete": "Scieppan tramet eft",
+	"ddms-action-unprotect": "Andwendan beorgunge",
+	"ddms-view-create": "Scieppan",
+	"ddms-view-edit": "Ādihtan",
+	"ddms-view-history": "Stǣr",
+	"ddms-view-view": "Rǣdan",
+	"ddms-view-viewsource": "Sēon fruman",
+	"ddms-more-actions": "Mā"
 }

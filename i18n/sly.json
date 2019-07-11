@@ -4,10 +4,10 @@
 			"ZQheert"
 		]
 	},
-	"vector-action-delete": "Lelei",
-	"vector-action-move": "Palettei",
-	"vector-view-create": "Bua'",
-	"vector-view-edit": "edi'",
-	"vector-view-view": "Bacai",
-	"vector-view-viewsource": "Tilingi assala'na"
+	"ddms-action-delete": "Lelei",
+	"ddms-action-move": "Palettei",
+	"ddms-view-create": "Bua'",
+	"ddms-view-edit": "edi'",
+	"ddms-view-view": "Bacai",
+	"ddms-view-viewsource": "Tilingi assala'na"
 }

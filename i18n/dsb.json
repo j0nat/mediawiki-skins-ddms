@@ -4,15 +4,15 @@
 			"Michawiki"
 		]
 	},
-	"vector-action-addsection": "Temu pśidaś",
-	"vector-action-delete": "Wulašowaś",
-	"vector-action-move": "Pśesunuś",
-	"vector-action-protect": "Šćitaś",
-	"vector-action-undelete": "Wótnowiś",
-	"vector-action-unprotect": "Šćit změniś",
-	"vector-view-create": "Napóraś",
-	"vector-view-edit": "Wobźěłaś",
-	"vector-view-history": "Wersije a awtory",
-	"vector-view-view": "Cytaś",
-	"vector-view-viewsource": "Žrědło se woglědaś"
+	"ddms-action-addsection": "Temu pśidaś",
+	"ddms-action-delete": "Wulašowaś",
+	"ddms-action-move": "Pśesunuś",
+	"ddms-action-protect": "Šćitaś",
+	"ddms-action-undelete": "Wótnowiś",
+	"ddms-action-unprotect": "Šćit změniś",
+	"ddms-view-create": "Napóraś",
+	"ddms-view-edit": "Wobźěłaś",
+	"ddms-view-history": "Wersije a awtory",
+	"ddms-view-view": "Cytaś",
+	"ddms-view-viewsource": "Žrědło se woglědaś"
 }

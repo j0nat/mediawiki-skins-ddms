@@ -4,12 +4,12 @@
 			"Lam-ang"
 		]
 	},
-	"vector-action-delete": "Buralen",
-	"vector-action-move": "Iyales",
-	"vector-action-protect": "Iyagel",
-	"vector-view-create": "Palsaen",
-	"vector-view-edit": "Dumaen",
-	"vector-view-history": "Nengnengen so awaran",
-	"vector-view-view": "Basaen",
-	"vector-more-actions": "Lalo"
+	"ddms-action-delete": "Buralen",
+	"ddms-action-move": "Iyales",
+	"ddms-action-protect": "Iyagel",
+	"ddms-view-create": "Palsaen",
+	"ddms-view-edit": "Dumaen",
+	"ddms-view-history": "Nengnengen so awaran",
+	"ddms-view-view": "Basaen",
+	"ddms-more-actions": "Lalo"
 }

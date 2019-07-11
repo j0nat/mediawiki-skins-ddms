@@ -7,16 +7,16 @@
 			"唐吉訶德的侍從"
 		]
 	},
-	"vector-action-addsection": "Kâ-ngi̍p fa-thì",
-	"vector-action-delete": "San-chhù",
-	"vector-action-move": "Yì-thûng",
-	"vector-action-protect": "Pó-fu",
-	"vector-action-undelete": "恢復",
-	"vector-action-unprotect": "更改保護",
-	"vector-view-create": "Kien-li̍p",
-	"vector-view-edit": "Phiên-siá",
-	"vector-view-history": "Khon li̍t-sṳ́",
-	"vector-view-view": "Thu̍k",
-	"vector-view-viewsource": "Khon ngièn-sṳ́-mâ",
-	"vector-more-actions": "Kiên-tô"
+	"ddms-action-addsection": "Kâ-ngi̍p fa-thì",
+	"ddms-action-delete": "San-chhù",
+	"ddms-action-move": "Yì-thûng",
+	"ddms-action-protect": "Pó-fu",
+	"ddms-action-undelete": "恢復",
+	"ddms-action-unprotect": "更改保護",
+	"ddms-view-create": "Kien-li̍p",
+	"ddms-view-edit": "Phiên-siá",
+	"ddms-view-history": "Khon li̍t-sṳ́",
+	"ddms-view-view": "Thu̍k",
+	"ddms-view-viewsource": "Khon ngièn-sṳ́-mâ",
+	"ddms-more-actions": "Kiên-tô"
 }

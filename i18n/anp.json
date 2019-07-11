@@ -4,13 +4,13 @@
 			"Angpradesh"
 		]
 	},
-	"vector-action-addsection": "विषय जोड़ऽ",
-	"vector-action-delete": "मेटाबऽ",
-	"vector-action-move": "चलऽ",
-	"vector-action-protect": "सुरक्षित करऽ",
-	"vector-view-create": "सृजन करऽ",
-	"vector-view-edit": "संपादन करऽ",
-	"vector-view-history": "इतिहास देखऽ",
-	"vector-view-view": "पढ़ऽ",
-	"vector-more-actions": "आरू जादा"
+	"ddms-action-addsection": "विषय जोड़ऽ",
+	"ddms-action-delete": "मेटाबऽ",
+	"ddms-action-move": "चलऽ",
+	"ddms-action-protect": "सुरक्षित करऽ",
+	"ddms-view-create": "सृजन करऽ",
+	"ddms-view-edit": "संपादन करऽ",
+	"ddms-view-history": "इतिहास देखऽ",
+	"ddms-view-view": "पढ़ऽ",
+	"ddms-more-actions": "आरू जादा"
 }

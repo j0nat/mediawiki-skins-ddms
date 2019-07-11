@@ -5,11 +5,11 @@
 			"Amire80"
 		]
 	},
-	"vector-action-addsection": "Mätë wɛ̈tnhom",
-	"vector-action-move": "Laar",
-	"vector-view-create": "Cak",
-	"vector-view-edit": "Cokic",
-	"vector-view-history": "Ɣoië käthɛɛr",
-	"vector-view-view": "Kuën",
-	"vector-more-actions": "Ajuëc"
+	"ddms-action-addsection": "Mätë wɛ̈tnhom",
+	"ddms-action-move": "Laar",
+	"ddms-view-create": "Cak",
+	"ddms-view-edit": "Cokic",
+	"ddms-view-history": "Ɣoië käthɛɛr",
+	"ddms-view-view": "Kuën",
+	"ddms-more-actions": "Ajuëc"
 }

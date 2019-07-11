@@ -5,12 +5,12 @@
 			"Aguve"
 		]
 	},
-	"vector-action-delete": "Tutui",
-	"vector-action-move": "Ɖɔli eƒe nɔƒe",
-	"vector-view-create": "Dze egɔme",
-	"vector-view-edit": "Trɔ asi le eŋu",
-	"vector-view-history": "Kpɔ xoxoawo",
-	"vector-view-view": "Xlẽ",
-	"vector-view-viewsource": "Kpɔ alesi woŋlɔe",
-	"vector-more-actions": "Bubuwo"
+	"ddms-action-delete": "Tutui",
+	"ddms-action-move": "Ɖɔli eƒe nɔƒe",
+	"ddms-view-create": "Dze egɔme",
+	"ddms-view-edit": "Trɔ asi le eŋu",
+	"ddms-view-history": "Kpɔ xoxoawo",
+	"ddms-view-view": "Xlẽ",
+	"ddms-view-viewsource": "Kpɔ alesi woŋlɔe",
+	"ddms-more-actions": "Bubuwo"
 }

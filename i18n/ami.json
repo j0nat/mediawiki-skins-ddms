@@ -4,11 +4,11 @@
 			"Vickylin77s"
 		]
 	},
-	"vector-action-move": "malinah",
-	"vector-view-create": " misanga’",
-	"vector-view-edit": "misinanot",
-	"vector-view-history": " misongila’ a minengneng to likisi",
-	"vector-view-view": " miasip",
-	"vector-view-viewsource": "misongila’ a minengneng to yin-se-ma",
-	"vector-more-actions": "matongal ko adihay"
+	"ddms-action-move": "malinah",
+	"ddms-view-create": " misanga’",
+	"ddms-view-edit": "misinanot",
+	"ddms-view-history": " misongila’ a minengneng to likisi",
+	"ddms-view-view": " miasip",
+	"ddms-view-viewsource": "misongila’ a minengneng to yin-se-ma",
+	"ddms-more-actions": "matongal ko adihay"
 }

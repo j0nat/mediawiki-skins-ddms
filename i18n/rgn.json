@@ -1,9 +1,9 @@
 {
 	"@metadata": [],
-	"vector-action-addsection": "Zonta una cjacarèda",
-	"vector-action-delete": "Scanzèla",
-	"vector-action-move": "Chèmbia nòm",
-	"vector-action-protect": "Metti-j una pruteziò",
-	"vector-action-undelete": "Armett a post",
-	"vector-action-unprotect": "Sbloca"
+	"ddms-action-addsection": "Zonta una cjacarèda",
+	"ddms-action-delete": "Scanzèla",
+	"ddms-action-move": "Chèmbia nòm",
+	"ddms-action-protect": "Metti-j una pruteziò",
+	"ddms-action-undelete": "Armett a post",
+	"ddms-action-unprotect": "Sbloca"
 }

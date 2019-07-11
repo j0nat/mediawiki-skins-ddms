@@ -6,13 +6,13 @@
 			"Rajemian"
 		]
 	},
-	"vector-action-addsection": "Աւելցնել քննարկում",
-	"vector-action-delete": "Ջնջել",
-	"vector-action-move": "Տեղափոխել այս էջը",
-	"vector-action-protect": "Պահպանել",
-	"vector-view-create": "Ստեղծել",
-	"vector-view-edit": "Խմբագրել",
-	"vector-view-history": "Տեսնել պատմութիւնը",
-	"vector-view-view": "Կարդալ",
-	"vector-more-actions": "Աւելին"
+	"ddms-action-addsection": "Աւելցնել քննարկում",
+	"ddms-action-delete": "Ջնջել",
+	"ddms-action-move": "Տեղափոխել այս էջը",
+	"ddms-action-protect": "Պահպանել",
+	"ddms-view-create": "Ստեղծել",
+	"ddms-view-edit": "Խմբագրել",
+	"ddms-view-history": "Տեսնել պատմութիւնը",
+	"ddms-view-view": "Կարդալ",
+	"ddms-more-actions": "Աւելին"
 }

@@ -5,14 +5,14 @@
 			"Athena in Wonderland"
 		]
 	},
-	"vector-action-addsection": "Nuobo cacho",
-	"vector-action-delete": "Botar fuora",
-	"vector-action-move": "Arrastrar",
-	"vector-action-protect": "Porteger",
-	"vector-action-unprotect": "Altarar la porteçon",
-	"vector-view-create": "Criar",
-	"vector-view-edit": "Eiditar",
-	"vector-view-history": "Ber stórico",
-	"vector-view-view": "Lher",
-	"vector-more-actions": "Mais"
+	"ddms-action-addsection": "Nuobo cacho",
+	"ddms-action-delete": "Botar fuora",
+	"ddms-action-move": "Arrastrar",
+	"ddms-action-protect": "Porteger",
+	"ddms-action-unprotect": "Altarar la porteçon",
+	"ddms-view-create": "Criar",
+	"ddms-view-edit": "Eiditar",
+	"ddms-view-history": "Ber stórico",
+	"ddms-view-view": "Lher",
+	"ddms-more-actions": "Mais"
 }

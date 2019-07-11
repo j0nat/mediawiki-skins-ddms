@@ -5,11 +5,11 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ"
+	"ddms-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"ddms-action-delete": "ⴽⴽⵙ",
+	"ddms-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"ddms-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"ddms-view-edit": "ⵙⵏⴼⵍ",
+	"ddms-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"ddms-view-view": "ⵖⵔ"
 }

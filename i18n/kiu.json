@@ -5,17 +5,17 @@
 			"Kumkumuk"
 		]
 	},
-	"vector-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
-	"vector-action-addsection": "Mewzu ilawe ke",
-	"vector-action-delete": "Bestere",
-	"vector-action-move": "Bere",
-	"vector-action-protect": "Bısevekne",
-	"vector-action-undelete": "Esterıtene peyser bıcê",
-	"vector-action-unprotect": "Şeveknayışi bıvurne",
-	"vector-view-create": "Vıraze",
-	"vector-view-edit": "Bıvurne",
-	"vector-view-history": "Tarixi bıvêne",
-	"vector-view-view": "Bıwane",
-	"vector-view-viewsource": "Çımey bıvêne",
-	"vector-more-actions": "Zêde"
+	"ddms-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"ddms-action-addsection": "Mewzu ilawe ke",
+	"ddms-action-delete": "Bestere",
+	"ddms-action-move": "Bere",
+	"ddms-action-protect": "Bısevekne",
+	"ddms-action-undelete": "Esterıtene peyser bıcê",
+	"ddms-action-unprotect": "Şeveknayışi bıvurne",
+	"ddms-view-create": "Vıraze",
+	"ddms-view-edit": "Bıvurne",
+	"ddms-view-history": "Tarixi bıvêne",
+	"ddms-view-view": "Bıwane",
+	"ddms-view-viewsource": "Çımey bıvêne",
+	"ddms-more-actions": "Zêde"
 }

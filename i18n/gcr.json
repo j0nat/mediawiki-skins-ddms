@@ -4,13 +4,13 @@
 			"LeGuyanaisPure"
 		]
 	},
-	"vector-action-addsection": "Ajouté roun sijè",
-	"vector-action-delete": "Siprimen",
-	"vector-action-move": "Rounonmen",
-	"vector-action-protect": "Protéjé",
-	"vector-view-create": "Kréyé",
-	"vector-view-edit": "Modifyé",
-	"vector-view-history": "Afiché listorik",
-	"vector-view-view": "Li",
-	"vector-more-actions": "Plis"
+	"ddms-action-addsection": "Ajouté roun sijè",
+	"ddms-action-delete": "Siprimen",
+	"ddms-action-move": "Rounonmen",
+	"ddms-action-protect": "Protéjé",
+	"ddms-view-create": "Kréyé",
+	"ddms-view-edit": "Modifyé",
+	"ddms-view-history": "Afiché listorik",
+	"ddms-view-view": "Li",
+	"ddms-more-actions": "Plis"
 }

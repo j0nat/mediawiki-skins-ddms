@@ -5,12 +5,12 @@
 			"Jawadywn"
 		]
 	},
-	"vector-action-addsection": "Imbuhke topik",
-	"vector-action-move": "Pindahke",
-	"vector-view-create": "Biat",
-	"vector-view-edit": "Robah",
-	"vector-view-history": "Jingok riwayat",
-	"vector-view-view": "Baco",
-	"vector-view-viewsource": "Jingok sumber",
-	"vector-more-actions": "Laénnyo"
+	"ddms-action-addsection": "Imbuhke topik",
+	"ddms-action-move": "Pindahke",
+	"ddms-view-create": "Biat",
+	"ddms-view-edit": "Robah",
+	"ddms-view-history": "Jingok riwayat",
+	"ddms-view-view": "Baco",
+	"ddms-view-viewsource": "Jingok sumber",
+	"ddms-more-actions": "Laénnyo"
 }

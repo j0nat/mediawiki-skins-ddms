@@ -4,11 +4,11 @@
 			"Mogoeilor"
 		]
 	},
-	"vector-action-addsection": "داسون اضاف کونین",
-	"vector-action-move": "جابجا کردن",
-	"vector-view-create": "راس كردن",
-	"vector-view-edit": "ڤیرایئشت کاری",
-	"vector-view-history": "ديئن ڤیرگار",
-	"vector-view-view": "خوندن",
-	"vector-more-actions": "بیشتر"
+	"ddms-action-addsection": "داسون اضاف کونین",
+	"ddms-action-move": "جابجا کردن",
+	"ddms-view-create": "راس كردن",
+	"ddms-view-edit": "ڤیرایئشت کاری",
+	"ddms-view-history": "ديئن ڤیرگار",
+	"ddms-view-view": "خوندن",
+	"ddms-more-actions": "بیشتر"
 }

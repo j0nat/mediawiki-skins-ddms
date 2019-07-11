@@ -5,11 +5,11 @@
 			"唐吉訶德的侍從"
 		]
 	},
-	"vector-action-delete": "Ca",
-	"vector-action-move": "Daen",
-	"vector-action-protect": "Bauj",
-	"vector-view-create": "Laeb",
-	"vector-view-edit": "gaij",
-	"vector-view-history": "Cazyawj lizsij",
-	"vector-view-view": "Doeg"
+	"ddms-action-delete": "Ca",
+	"ddms-action-move": "Daen",
+	"ddms-action-protect": "Bauj",
+	"ddms-view-create": "Laeb",
+	"ddms-view-edit": "gaij",
+	"ddms-view-history": "Cazyawj lizsij",
+	"ddms-view-view": "Doeg"
 }

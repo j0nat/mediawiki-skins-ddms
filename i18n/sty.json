@@ -4,13 +4,13 @@
 			"Khanmarat"
 		]
 	},
-	"vector-action-addsection": "Тема өстәгәле",
-	"vector-action-delete": "Йуҡ иткәле",
-	"vector-action-move": "Исемне алмаштырғалы",
-	"vector-action-protect": "Йаҡлағалы",
-	"vector-view-create": "Ҡылғалы",
-	"vector-view-edit": "Төсәткәле",
-	"vector-view-history": "Тариҡны ҡарағалы",
-	"vector-view-view": "Уғығалы",
-	"vector-more-actions": "Тағын"
+	"ddms-action-addsection": "Тема өстәгәле",
+	"ddms-action-delete": "Йуҡ иткәле",
+	"ddms-action-move": "Исемне алмаштырғалы",
+	"ddms-action-protect": "Йаҡлағалы",
+	"ddms-view-create": "Ҡылғалы",
+	"ddms-view-edit": "Төсәткәле",
+	"ddms-view-history": "Тариҡны ҡарағалы",
+	"ddms-view-view": "Уғығалы",
+	"ddms-more-actions": "Тағын"
 }

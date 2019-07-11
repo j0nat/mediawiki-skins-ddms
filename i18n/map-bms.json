@@ -5,16 +5,16 @@
 			"Mbrt"
 		]
 	},
-	"vector-action-addsection": "Nambah topik",
-	"vector-action-delete": "Busek",
-	"vector-action-move": "Pindah",
-	"vector-action-protect": "Reksa",
-	"vector-action-undelete": "Batalna pambusakan",
-	"vector-action-unprotect": "Owahi pangreksan",
-	"vector-view-create": "Gawe",
-	"vector-view-edit": "Sunting",
-	"vector-view-history": "Sajarah kaca",
-	"vector-view-view": "Waca",
-	"vector-view-viewsource": "Deleng sumbere",
-	"vector-more-actions": "Liane"
+	"ddms-action-addsection": "Nambah topik",
+	"ddms-action-delete": "Busek",
+	"ddms-action-move": "Pindah",
+	"ddms-action-protect": "Reksa",
+	"ddms-action-undelete": "Batalna pambusakan",
+	"ddms-action-unprotect": "Owahi pangreksan",
+	"ddms-view-create": "Gawe",
+	"ddms-view-edit": "Sunting",
+	"ddms-view-history": "Sajarah kaca",
+	"ddms-view-view": "Waca",
+	"ddms-view-viewsource": "Deleng sumbere",
+	"ddms-more-actions": "Liane"
 }

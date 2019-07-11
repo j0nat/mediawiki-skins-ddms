@@ -5,11 +5,11 @@
 			"Qaqqalik"
 		]
 	},
-	"vector-action-addsection": "Imm. nutaaq",
-	"vector-action-move": "Nuuguk",
-	"vector-view-create": "Pilersiguk",
-	"vector-view-edit": "Aaqqissoruk",
-	"vector-view-history": "Oqalutt.",
-	"vector-view-view": "Takuuk",
-	"vector-view-viewsource": "Toqqavia takuuk"
+	"ddms-action-addsection": "Imm. nutaaq",
+	"ddms-action-move": "Nuuguk",
+	"ddms-view-create": "Pilersiguk",
+	"ddms-view-edit": "Aaqqissoruk",
+	"ddms-view-history": "Oqalutt.",
+	"ddms-view-view": "Takuuk",
+	"ddms-view-viewsource": "Toqqavia takuuk"
 }

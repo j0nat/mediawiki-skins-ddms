@@ -6,16 +6,16 @@
 			"Joe Watzmo"
 		]
 	},
-	"vector-action-addsection": "An Obschnitt dazua doa",
-	"vector-action-delete": "Leschn",
-	"vector-action-move": "Vaschiabm",
-	"vector-action-protect": "Schitzn",
-	"vector-action-undelete": "Wiederherstön",
-	"vector-action-unprotect": "freigeem",
-	"vector-view-create": "Aufbaun",
-	"vector-view-edit": "Werkln",
-	"vector-view-history": "Gschicht oschaugn",
-	"vector-view-view": "Lesn",
-	"vector-view-viewsource": "Quejtext ozoagn",
-	"vector-more-actions": "Meara"
+	"ddms-action-addsection": "An Obschnitt dazua doa",
+	"ddms-action-delete": "Leschn",
+	"ddms-action-move": "Vaschiabm",
+	"ddms-action-protect": "Schitzn",
+	"ddms-action-undelete": "Wiederherstön",
+	"ddms-action-unprotect": "freigeem",
+	"ddms-view-create": "Aufbaun",
+	"ddms-view-edit": "Werkln",
+	"ddms-view-history": "Gschicht oschaugn",
+	"ddms-view-view": "Lesn",
+	"ddms-view-viewsource": "Quejtext ozoagn",
+	"ddms-more-actions": "Meara"
 }

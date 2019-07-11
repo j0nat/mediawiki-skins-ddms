@@ -4,10 +4,10 @@
 			"Asenoner"
 		]
 	},
-	"vector-action-addsection": "Mët leprò n tema de descuscion",
-	"vector-view-create": "Mët adum",
-	"vector-view-edit": "Muda",
-	"vector-view-history": "Storia dl documënt",
-	"vector-view-view": "Liej",
-	"vector-more-actions": "De plu"
+	"ddms-action-addsection": "Mët leprò n tema de descuscion",
+	"ddms-view-create": "Mët adum",
+	"ddms-view-edit": "Muda",
+	"ddms-view-history": "Storia dl documënt",
+	"ddms-view-view": "Liej",
+	"ddms-more-actions": "De plu"
 }

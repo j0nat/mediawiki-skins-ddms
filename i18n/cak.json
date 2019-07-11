@@ -4,10 +4,10 @@
 			"Chocoj"
 		]
 	},
-	"vector-action-addsection": "K'ak'a' peraj",
-	"vector-view-create": "Tatz'uku'",
-	"vector-view-edit": "Tanuk'u'",
-	"vector-view-history": "Tatz'eta' ri natab'äl",
-	"vector-view-view": "Tasik'ij",
-	"vector-more-actions": "Ch'aqa chik"
+	"ddms-action-addsection": "K'ak'a' peraj",
+	"ddms-view-create": "Tatz'uku'",
+	"ddms-view-edit": "Tanuk'u'",
+	"ddms-view-history": "Tatz'eta' ri natab'äl",
+	"ddms-view-view": "Tasik'ij",
+	"ddms-more-actions": "Ch'aqa chik"
 }

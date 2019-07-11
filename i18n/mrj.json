@@ -4,12 +4,12 @@
 			"Amdf"
 		]
 	},
-	"vector-action-delete": "Карангдаш",
-	"vector-action-move": "Лӹмӹм вашталташ",
-	"vector-action-protect": "Ӹшӹклӓш",
-	"vector-view-create": "Ӹштӓш",
-	"vector-view-edit": "Тӧрлӹмӓш",
-	"vector-view-history": "Историм анжымаш",
-	"vector-view-view": "Лыдмаш",
-	"vector-view-viewsource": "Сек пӹтӓриш кодым анжалаш"
+	"ddms-action-delete": "Карангдаш",
+	"ddms-action-move": "Лӹмӹм вашталташ",
+	"ddms-action-protect": "Ӹшӹклӓш",
+	"ddms-view-create": "Ӹштӓш",
+	"ddms-view-edit": "Тӧрлӹмӓш",
+	"ddms-view-history": "Историм анжымаш",
+	"ddms-view-view": "Лыдмаш",
+	"ddms-view-viewsource": "Сек пӹтӓриш кодым анжалаш"
 }

@@ -7,17 +7,17 @@
 			"Tweety"
 		]
 	},
-	"vector-action-addsection": "عنوان ڏيو",
-	"vector-action-delete": "ڊاھيو",
-	"vector-action-move": "چوريو",
-	"vector-action-protect": "تحفظيو",
-	"vector-action-undelete": "اڻ‌ڊاهيو",
-	"vector-action-unprotect": "تحفظ بدلايو",
-	"vector-view-create": "سرجيو",
-	"vector-view-edit": "سنواريو",
-	"vector-view-history": "سوانح ڏسو",
-	"vector-view-view": "پڙھو",
-	"vector-view-viewsource": "ڪوڊ ڏسو",
-	"vector-jumptosearch": "ڳولا ڏانهن هلو",
-	"vector-more-actions": "وڌيڪ"
+	"ddms-action-addsection": "عنوان ڏيو",
+	"ddms-action-delete": "ڊاھيو",
+	"ddms-action-move": "چوريو",
+	"ddms-action-protect": "تحفظيو",
+	"ddms-action-undelete": "اڻ‌ڊاهيو",
+	"ddms-action-unprotect": "تحفظ بدلايو",
+	"ddms-view-create": "سرجيو",
+	"ddms-view-edit": "سنواريو",
+	"ddms-view-history": "سوانح ڏسو",
+	"ddms-view-view": "پڙھو",
+	"ddms-view-viewsource": "ڪوڊ ڏسو",
+	"ddms-jumptosearch": "ڳولا ڏانهن هلو",
+	"ddms-more-actions": "وڌيڪ"
 }

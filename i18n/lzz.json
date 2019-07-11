@@ -7,11 +7,11 @@
 			"Velg"
 		]
 	},
-	"vector-action-delete": "Jili",
-	"vector-action-move": "Tori",
-	"vector-action-protect": "İçvi",
-	"vector-view-create": "dokʼidi",
-	"vector-view-edit": "Doktiri",
-	"vector-view-history": "Dosyaşi tarixi",
-	"vector-view-view": "İǩitxi"
+	"ddms-action-delete": "Jili",
+	"ddms-action-move": "Tori",
+	"ddms-action-protect": "İçvi",
+	"ddms-view-create": "dokʼidi",
+	"ddms-view-edit": "Doktiri",
+	"ddms-view-history": "Dosyaşi tarixi",
+	"ddms-view-view": "İǩitxi"
 }

@@ -4,9 +4,9 @@
 			"Eukesh"
 		]
 	},
-	"vector-action-move": "संकादिसँ",
-	"vector-view-create": "दयेकादिसँ",
-	"vector-view-edit": "सम्पादन",
-	"vector-view-history": "इतिहास स्वयादिसँ",
-	"vector-view-view": "ब्वनादिसँ"
+	"ddms-action-move": "संकादिसँ",
+	"ddms-view-create": "दयेकादिसँ",
+	"ddms-view-edit": "सम्पादन",
+	"ddms-view-history": "इतिहास स्वयादिसँ",
+	"ddms-view-view": "ब्वनादिसँ"
 }

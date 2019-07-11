@@ -5,16 +5,16 @@
 			"Terfili"
 		]
 	},
-	"vector-action-addsection": "Agiuntar chapitel",
-	"vector-action-delete": "Stizzar",
-	"vector-action-move": "Spustar",
-	"vector-action-protect": "Bloccar",
-	"vector-action-undelete": "Restituir",
-	"vector-action-unprotect": "Midar la protecziun",
-	"vector-view-create": "Crear",
-	"vector-view-edit": "Modifitgar",
-	"vector-view-history": "Cronologia",
-	"vector-view-view": "Leger",
-	"vector-view-viewsource": "Mussar il code",
-	"vector-more-actions": "dapli"
+	"ddms-action-addsection": "Agiuntar chapitel",
+	"ddms-action-delete": "Stizzar",
+	"ddms-action-move": "Spustar",
+	"ddms-action-protect": "Bloccar",
+	"ddms-action-undelete": "Restituir",
+	"ddms-action-unprotect": "Midar la protecziun",
+	"ddms-view-create": "Crear",
+	"ddms-view-edit": "Modifitgar",
+	"ddms-view-history": "Cronologia",
+	"ddms-view-view": "Leger",
+	"ddms-view-viewsource": "Mussar il code",
+	"ddms-more-actions": "dapli"
 }

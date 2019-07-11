@@ -7,14 +7,14 @@
 			"Silovan"
 		]
 	},
-	"vector-action-addsection": "თემაშ მიშაძინა",
-	"vector-action-delete": "ლასუა",
-	"vector-action-move": "გინოღალა",
-	"vector-action-protect": "თხილუა",
-	"vector-view-create": "დორსხუაფა",
-	"vector-view-edit": "რედაქტირაფა",
-	"vector-view-history": "ისტორიაშ ძირაფა",
-	"vector-view-view": "კითხირი",
-	"vector-view-viewsource": "ქიძირე წყუ",
-	"vector-more-actions": "უმოსი"
+	"ddms-action-addsection": "თემაშ მიშაძინა",
+	"ddms-action-delete": "ლასუა",
+	"ddms-action-move": "გინოღალა",
+	"ddms-action-protect": "თხილუა",
+	"ddms-view-create": "დორსხუაფა",
+	"ddms-view-edit": "რედაქტირაფა",
+	"ddms-view-history": "ისტორიაშ ძირაფა",
+	"ddms-view-view": "კითხირი",
+	"ddms-view-viewsource": "ქიძირე წყუ",
+	"ddms-more-actions": "უმოსი"
 }

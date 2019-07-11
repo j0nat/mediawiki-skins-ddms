@@ -4,11 +4,11 @@
 			"Anok kutai jang"
 		]
 	},
-	"vector-action-addsection": "Kas tamba baru",
-	"vector-action-move": "Kas pindah",
-	"vector-view-create": "Biking",
-	"vector-view-edit": "Kas ubah",
-	"vector-view-history": "Lia versi lama",
-	"vector-view-view": "Baca",
-	"vector-more-actions": "Laeng-laeng"
+	"ddms-action-addsection": "Kas tamba baru",
+	"ddms-action-move": "Kas pindah",
+	"ddms-view-create": "Biking",
+	"ddms-view-edit": "Kas ubah",
+	"ddms-view-history": "Lia versi lama",
+	"ddms-view-view": "Baca",
+	"ddms-more-actions": "Laeng-laeng"
 }

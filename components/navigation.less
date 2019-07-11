@@ -26,21 +26,18 @@
 
 #mw-head-base {
 	margin-top: -5em;
-	margin-left: 10em;
 	height: 5em;
 }
 
 #mw-head {
 	position: absolute;
 	top: 0;
-	right: 0;
-	width: 100%;
+
 }
 
 /* Navigation Containers */
 #left-navigation {
 	float: left;
-	margin-left: 10em;
 	margin-top: 2.5em;
 	/* When right nav would overlap left nav, it's placed below it
 	   (normal CSS floats behavior). This rule ensures that no empty space
@@ -57,13 +54,13 @@
 
 /* Logo */
 #p-logo {
-	width: 10em;
-	height: 160px;
-
+	width: 176px;
+	height: 57px;
+	
 	a {
 		display: block;
-		width: 10em;
-		height: 160px;
+	width: 176px;
+	height: 57px;
 		background-repeat: no-repeat;
 		background-position: center center;
 		text-decoration: none;
@@ -75,8 +72,8 @@
 	font-size: @menu-main-font-size;
 	position: absolute;
 	top: 0;
-	width: 10em;
-	left: 0;
+	width: 100%;
+
 
 	.portal {
 		margin: 0 0.6em 0 0.7em;
@@ -96,10 +93,11 @@
 		}
 
 		.body {
-			margin-left: @menu-main-body-margin-left;
+			margin-left: 0;
 			padding-top: 0;
 			.background-image( 'images/portal-break.png' );
 			background-repeat: no-repeat;
+					display: none;
 
 			ul {
 				list-style: none none;
@@ -136,7 +134,7 @@
 
 		.body {
 			background-image: none;
-			margin-left: @menu-main-body-margin-left;
+			margin-left: 0;
 		}
 	}
 }

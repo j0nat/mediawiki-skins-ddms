@@ -5,16 +5,16 @@
 			"Csisc"
 		]
 	},
-	"vector-action-addsection": "أضف موضوعاً",
-	"vector-action-delete": "احذف",
-	"vector-action-move": "حوّل",
-	"vector-action-protect": "احم",
-	"vector-action-undelete": "استرجع الحذف",
-	"vector-action-unprotect": "غير الحماية",
-	"vector-view-create": "أنشئ",
-	"vector-view-edit": "بدّل",
-	"vector-view-history": "ورّي الپاج",
-	"vector-view-view": "أقرا",
-	"vector-view-viewsource": "اعرض المصدر",
-	"vector-more-actions": "زادة"
+	"ddms-action-addsection": "أضف موضوعاً",
+	"ddms-action-delete": "احذف",
+	"ddms-action-move": "حوّل",
+	"ddms-action-protect": "احم",
+	"ddms-action-undelete": "استرجع الحذف",
+	"ddms-action-unprotect": "غير الحماية",
+	"ddms-view-create": "أنشئ",
+	"ddms-view-edit": "بدّل",
+	"ddms-view-history": "ورّي الپاج",
+	"ddms-view-view": "أقرا",
+	"ddms-view-viewsource": "اعرض المصدر",
+	"ddms-more-actions": "زادة"
 }

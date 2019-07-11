@@ -6,13 +6,13 @@
 			"Chabi"
 		]
 	},
-	"vector-action-addsection": "Ajunta un tema",
-	"vector-action-delete": "Sutrae",
-	"vector-action-move": "Move",
-	"vector-action-protect": "Proteje",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Edita",
-	"vector-view-history": "Mostra istoria",
-	"vector-view-view": "Leje",
-	"vector-more-actions": "Plu"
+	"ddms-action-addsection": "Ajunta un tema",
+	"ddms-action-delete": "Sutrae",
+	"ddms-action-move": "Move",
+	"ddms-action-protect": "Proteje",
+	"ddms-view-create": "Crea",
+	"ddms-view-edit": "Edita",
+	"ddms-view-history": "Mostra istoria",
+	"ddms-view-view": "Leje",
+	"ddms-more-actions": "Plu"
 }

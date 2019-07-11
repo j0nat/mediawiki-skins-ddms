@@ -4,8 +4,8 @@
 			"WikiEditor50"
 		]
 	},
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Revisa",
-	"vector-view-view": "Lee",
-	"vector-more-actions": "Mas"
+	"ddms-view-create": "Crea",
+	"ddms-view-edit": "Revisa",
+	"ddms-view-view": "Lee",
+	"ddms-more-actions": "Mas"
 }

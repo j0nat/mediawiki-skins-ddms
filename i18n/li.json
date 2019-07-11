@@ -6,17 +6,17 @@
 			"Robin van der Vliet"
 		]
 	},
-	"vector-skin-desc": "Modern versie van MonoBook mit e frisj uterlik en verbaeteringe op 't gebeed van gebroeksvruntjelikheid",
-	"vector-action-addsection": "Voog köpke toe",
-	"vector-action-delete": "Ewegsjaffe",
-	"vector-action-move": "Verplaats",
-	"vector-action-protect": "Besjirm",
-	"vector-action-undelete": "Plaats trök",
-	"vector-action-unprotect": "Anger beveiliging",
-	"vector-view-create": "Maak aan",
-	"vector-view-edit": "Bewirk",
-	"vector-view-history": "Bekiek de gesjiedenis",
-	"vector-view-view": "Laes",
-	"vector-view-viewsource": "Bekiek bróntèks",
-	"vector-more-actions": "Mieë"
+	"ddms-skin-desc": "Modern versie van MonoBook mit e frisj uterlik en verbaeteringe op 't gebeed van gebroeksvruntjelikheid",
+	"ddms-action-addsection": "Voog köpke toe",
+	"ddms-action-delete": "Ewegsjaffe",
+	"ddms-action-move": "Verplaats",
+	"ddms-action-protect": "Besjirm",
+	"ddms-action-undelete": "Plaats trök",
+	"ddms-action-unprotect": "Anger beveiliging",
+	"ddms-view-create": "Maak aan",
+	"ddms-view-edit": "Bewirk",
+	"ddms-view-history": "Bekiek de gesjiedenis",
+	"ddms-view-view": "Laes",
+	"ddms-view-viewsource": "Bekiek bróntèks",
+	"ddms-more-actions": "Mieë"
 }

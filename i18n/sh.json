@@ -6,16 +6,16 @@
 			"Srdjan m"
 		]
 	},
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Brisanje",
-	"vector-action-move": "Premjesti",
-	"vector-action-protect": "Zaštiti",
-	"vector-action-undelete": "Vrati obrisano",
-	"vector-action-unprotect": "Promijeni zaštitu",
-	"vector-view-create": "Napravi",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Vidi historiju",
-	"vector-view-view": "Čitaj",
-	"vector-view-viewsource": "Vidi izvor (source)",
-	"vector-more-actions": "Više"
+	"ddms-action-addsection": "Dodaj temu",
+	"ddms-action-delete": "Brisanje",
+	"ddms-action-move": "Premjesti",
+	"ddms-action-protect": "Zaštiti",
+	"ddms-action-undelete": "Vrati obrisano",
+	"ddms-action-unprotect": "Promijeni zaštitu",
+	"ddms-view-create": "Napravi",
+	"ddms-view-edit": "Uredi",
+	"ddms-view-history": "Vidi historiju",
+	"ddms-view-view": "Čitaj",
+	"ddms-view-viewsource": "Vidi izvor (source)",
+	"ddms-more-actions": "Više"
 }

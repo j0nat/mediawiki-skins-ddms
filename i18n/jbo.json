@@ -4,18 +4,18 @@
 			"Gleki"
 		]
 	},
-	"skinname-vector": "la vektor",
-	"vector-skin-desc": "cabna versiio la monobuk i vifne tarmi i so'i da nu xamgu zenba",
-	"vector-action-addsection": "jmina lo se casnu pagbu",
-	"vector-action-delete": "vimcu",
-	"vector-action-move": "stika lo cmene",
-	"vector-action-protect": "co'a bandu",
-	"vector-action-undelete": "ca'o nai vimcu",
-	"vector-action-unprotect": "co'u bandu",
-	"vector-view-create": "zbasu",
-	"vector-view-edit": "stika",
-	"vector-view-history": "citri lo papri",
-	"vector-view-view": "tcidu",
-	"vector-view-viewsource": "cpacu lo krasi",
-	"vector-more-actions": "ji'a"
+	"skinname-ddms": "la vektor",
+	"ddms-skin-desc": "cabna versiio la monobuk i vifne tarmi i so'i da nu xamgu zenba",
+	"ddms-action-addsection": "jmina lo se casnu pagbu",
+	"ddms-action-delete": "vimcu",
+	"ddms-action-move": "stika lo cmene",
+	"ddms-action-protect": "co'a bandu",
+	"ddms-action-undelete": "ca'o nai vimcu",
+	"ddms-action-unprotect": "co'u bandu",
+	"ddms-view-create": "zbasu",
+	"ddms-view-edit": "stika",
+	"ddms-view-history": "citri lo papri",
+	"ddms-view-view": "tcidu",
+	"ddms-view-viewsource": "cpacu lo krasi",
+	"ddms-more-actions": "ji'a"
 }

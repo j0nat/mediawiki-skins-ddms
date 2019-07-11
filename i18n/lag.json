@@ -4,9 +4,9 @@
 			"Baba Tabita"
 		]
 	},
-	"vector-action-delete": "Honola",
-	"vector-action-move": "Seesya",
-	"vector-action-protect": "Fafɨra",
-	"vector-view-history": "Laangɨra hɨstoríya",
-	"vector-view-view": "Soma"
+	"ddms-action-delete": "Honola",
+	"ddms-action-move": "Seesya",
+	"ddms-action-protect": "Fafɨra",
+	"ddms-view-history": "Laangɨra hɨstoríya",
+	"ddms-view-view": "Soma"
 }

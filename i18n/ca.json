@@ -13,18 +13,18 @@
 			"Townie"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
-	"vector-action-addsection": "Afegeix un tema",
-	"vector-action-delete": "Esborra",
-	"vector-action-move": "Reanomena",
-	"vector-action-protect": "Protegeix",
-	"vector-action-undelete": "Restaura",
-	"vector-action-unprotect": "Desprotegeix",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Modifica",
-	"vector-view-history": "Mostra l'historial",
-	"vector-view-view": "Mostra",
-	"vector-view-viewsource": "Mostra el codi",
-	"vector-more-actions": "Més"
+	"skinname-ddms": "ddms",
+	"ddms-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"ddms-action-addsection": "Afegeix un tema",
+	"ddms-action-delete": "Esborra",
+	"ddms-action-move": "Reanomena",
+	"ddms-action-protect": "Protegeix",
+	"ddms-action-undelete": "Restaura",
+	"ddms-action-unprotect": "Desprotegeix",
+	"ddms-view-create": "Crea",
+	"ddms-view-edit": "Modifica",
+	"ddms-view-history": "Mostra l'historial",
+	"ddms-view-view": "Mostra",
+	"ddms-view-viewsource": "Mostra el codi",
+	"ddms-more-actions": "Més"
 }

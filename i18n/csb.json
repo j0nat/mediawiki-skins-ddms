@@ -6,16 +6,16 @@
 			"Kirsan"
 		]
 	},
-	"vector-action-addsection": "Dodôj témã",
-	"vector-action-delete": "Rëmôj",
-	"vector-action-move": "Przeniesë",
-	"vector-action-protect": "Zazychrëjë",
-	"vector-action-undelete": "Doprowadzë nazôd",
-	"vector-action-unprotect": "Zmieni zazychrowanié",
-	"vector-view-create": "Ùsadzë",
-	"vector-view-edit": "Edicëjô",
-	"vector-view-history": "Historëjô lopka",
-	"vector-view-view": "Czëtôj",
-	"vector-view-viewsource": "Zdrojowi tekst",
-	"vector-more-actions": "Wiãcy"
+	"ddms-action-addsection": "Dodôj témã",
+	"ddms-action-delete": "Rëmôj",
+	"ddms-action-move": "Przeniesë",
+	"ddms-action-protect": "Zazychrëjë",
+	"ddms-action-undelete": "Doprowadzë nazôd",
+	"ddms-action-unprotect": "Zmieni zazychrowanié",
+	"ddms-view-create": "Ùsadzë",
+	"ddms-view-edit": "Edicëjô",
+	"ddms-view-history": "Historëjô lopka",
+	"ddms-view-view": "Czëtôj",
+	"ddms-view-viewsource": "Zdrojowi tekst",
+	"ddms-more-actions": "Wiãcy"
 }

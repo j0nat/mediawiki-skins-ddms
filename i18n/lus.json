@@ -4,15 +4,15 @@
 			"RMizo"
 		]
 	},
-	"vector-action-addsection": "Thupui belhna",
-	"vector-action-delete": "Paihna",
-	"vector-action-move": "Sawnna",
-	"vector-action-protect": "Venhimna",
-	"vector-action-undelete": "Lak kir lehna",
-	"vector-action-unprotect": "Venhimna dinhmun tidanglam rawh",
-	"vector-view-create": "Siamna",
-	"vector-view-edit": "Siamţhatna",
-	"vector-view-history": "Hunhlui-chanchin",
-	"vector-view-view": "Chhiarna",
-	"vector-view-viewsource": "A hnar enna"
+	"ddms-action-addsection": "Thupui belhna",
+	"ddms-action-delete": "Paihna",
+	"ddms-action-move": "Sawnna",
+	"ddms-action-protect": "Venhimna",
+	"ddms-action-undelete": "Lak kir lehna",
+	"ddms-action-unprotect": "Venhimna dinhmun tidanglam rawh",
+	"ddms-view-create": "Siamna",
+	"ddms-view-edit": "Siamţhatna",
+	"ddms-view-history": "Hunhlui-chanchin",
+	"ddms-view-view": "Chhiarna",
+	"ddms-view-viewsource": "A hnar enna"
 }

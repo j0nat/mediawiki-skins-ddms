@@ -6,16 +6,16 @@
 			"KHMELNYTSKYIA"
 		]
 	},
-	"vector-action-addsection": "Придати тему",
-	"vector-action-delete": "Вымазати",
-	"vector-action-move": "Переменовати",
-	"vector-action-protect": "Всокотити",
-	"vector-action-undelete": "Обновити",
-	"vector-action-unprotect": "Змінити замок",
-	"vector-view-create": "Створити",
-	"vector-view-edit": "Едітовати",
-	"vector-view-history": "Видїти історію",
-	"vector-view-view": "Чітати",
-	"vector-view-viewsource": "Видїти код",
-	"vector-more-actions": "Веце"
+	"ddms-action-addsection": "Придати тему",
+	"ddms-action-delete": "Вымазати",
+	"ddms-action-move": "Переменовати",
+	"ddms-action-protect": "Всокотити",
+	"ddms-action-undelete": "Обновити",
+	"ddms-action-unprotect": "Змінити замок",
+	"ddms-view-create": "Створити",
+	"ddms-view-edit": "Едітовати",
+	"ddms-view-history": "Видїти історію",
+	"ddms-view-view": "Чітати",
+	"ddms-view-viewsource": "Видїти код",
+	"ddms-more-actions": "Веце"
 }

@@ -6,16 +6,16 @@
 			"Katxis"
 		]
 	},
-	"vector-action-addsection": "Ad tapik",
-	"vector-action-delete": "Diliit",
-	"vector-action-move": "Muuv",
-	"vector-action-protect": "Protek",
-	"vector-action-undelete": "Andiliit",
-	"vector-action-unprotect": "Neu protektian",
-	"vector-view-create": "Kriet",
-	"vector-view-edit": "Hedit",
-	"vector-view-history": "Vyuu ischri",
-	"vector-view-view": "Riid",
-	"vector-view-viewsource": "Vyuu Suos",
-	"vector-more-actions": "Muo"
+	"ddms-action-addsection": "Ad tapik",
+	"ddms-action-delete": "Diliit",
+	"ddms-action-move": "Muuv",
+	"ddms-action-protect": "Protek",
+	"ddms-action-undelete": "Andiliit",
+	"ddms-action-unprotect": "Neu protektian",
+	"ddms-view-create": "Kriet",
+	"ddms-view-edit": "Hedit",
+	"ddms-view-history": "Vyuu ischri",
+	"ddms-view-view": "Riid",
+	"ddms-view-viewsource": "Vyuu Suos",
+	"ddms-more-actions": "Muo"
 }

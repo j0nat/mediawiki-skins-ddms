@@ -1,44 +1,44 @@
 {
-	"name": "Vector",
+	"name": "ddms",
 	"author": [
 		"Trevor Parscal",
 		"Roan Kattouw",
 		"..."
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Vector",
-	"descriptionmsg": "vector-skin-desc",
-	"namemsg": "skinname-vector",
+	"url": "https://www.mediawiki.org/wiki/Skin:ddms",
+	"descriptionmsg": "ddms-skin-desc",
+	"namemsg": "skinname-ddms",
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
 	"ConfigRegistry": {
-		"vector": "GlobalVarConfig::newInstance"
+		"ddms": "GlobalVarConfig::newInstance"
 	},
 	"ValidSkinNames": {
-		"vector": "Vector"
+		"ddms": "ddms"
 	},
 	"MessagesDirs": {
-		"Vector": [
+		"ddms": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"Vector\\Hooks": "includes/Hooks.php",
-		"SkinVector": "includes/SkinVector.php",
-		"VectorTemplate": "includes/VectorTemplate.php",
-		"Vector\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+		"ddms\\Hooks": "includes/Hooks.php",
+		"Skinddms": "includes/Skinddms.php",
+		"ddmsTemplate": "includes/ddmsTemplate.php",
+		"ddms\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
 	},
 	"Hooks": {
 		"BeforePageDisplayMobile": [
-			"Vector\\Hooks::onBeforePageDisplayMobile"
+			"ddms\\Hooks::onBeforePageDisplayMobile"
 		]
 	},
-	"@note": "When modifying skins.vector.styles definition, make sure the installer still works",
+	"@note": "When modifying skins.ddms.styles definition, make sure the installer still works",
 	"ResourceModules": {
-		"skins.vector.styles": {
-			"class": "Vector\\ResourceLoaderLessModule",
+		"skins.ddms.styles": {
+			"class": "ddms\\ResourceLoaderLessModule",
 			"targets": [ "desktop", "mobile" ],
 			"styles": {
 				"screen.less": {
@@ -51,16 +51,16 @@
 			}
 		},
 
-		"skins.vector.styles.responsive": {
+		"skins.ddms.styles.responsive": {
 			"targets": [ "desktop", "mobile" ],
 			"styles": [
 				"responsive.less"
 			]
 		},
-		"skins.vector.js": {
+		"skins.ddms.js": {
 			"scripts": [
 				"collapsibleTabs.js",
-				"vector.js"
+				"ddms.js"
 			],
 			"dependencies": [
 				"jquery.throttle-debounce",
@@ -70,10 +70,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Vector"
+		"remoteSkinPath": "ddms"
 	},
 	"ResourceModuleSkinStyles": {
-		"vector": {
+		"ddms": {
 			"jquery.tipsy": "skinStyles/jquery.tipsy.less",
 			"jquery.ui.core": [
 				"skinStyles/jquery.ui/jquery.ui.core.css",
@@ -100,10 +100,10 @@
 		}
 	},
 	"config": {
-		"VectorUseSimpleSearch": true,
-		"VectorUseIconWatch": true,
-		"VectorResponsive": false,
-		"VectorPrintLogo": false
+		"ddmsUseSimpleSearch": true,
+		"ddmsUseIconWatch": true,
+		"ddmsResponsive": false,
+		"ddmsPrintLogo": false
 	},
 	"manifest_version": 1
 }

@@ -6,16 +6,16 @@
 			"ⵕⴰⵊⵉ"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⵓⴽⵓⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
-	"vector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
-	"vector-view-create": "ⴰⵔⴰ",
-	"vector-view-edit": "ⴱⴷⴷⴻⵍ",
-	"vector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"skinname-ddms": "ddms",
+	"ddms-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"ddms-action-delete": "ⵓⴽⵓⵙ",
+	"ddms-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"ddms-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"ddms-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"ddms-view-create": "ⴰⵔⴰ",
+	"ddms-view-edit": "ⴱⴷⴷⴻⵍ",
+	"ddms-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"ddms-view-view": "ⵖⵔ",
+	"ddms-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"ddms-more-actions": "ⵓⴳⴳⴰⵔ"
 }

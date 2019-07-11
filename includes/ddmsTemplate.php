@@ -1,6 +1,6 @@
 <?php
 /**
- * Vector - Modern version of MonoBook with fresh look and many usability
+ * ddms - Modern version of MonoBook with fresh look and many usability
  * improvements.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -23,10 +23,10 @@
  */
 
 /**
- * QuickTemplate subclass for Vector
+ * QuickTemplate subclass for ddms
  * @ingroup Skins
  */
-class VectorTemplate extends BaseTemplate {
+class ddmsTemplate extends BaseTemplate {
 	/* Functions */
 
 	/**
@@ -39,7 +39,7 @@ class VectorTemplate extends BaseTemplate {
 		$this->data['variant_urls'] = $this->data['content_navigation']['variants'];
 
 		// Move the watch/unwatch star outside of the collapsed "actions" menu to the main "views" menu
-		if ( $this->config->get( 'VectorUseIconWatch' ) ) {
+		if ( $this->config->get( 'ddmsUseIconWatch' ) ) {
 			$mode = $this->getSkin()->getUser()->isWatched( $this->getSkin()->getRelevantTitle() )
 				? 'unwatch'
 				: 'watch';
@@ -122,8 +122,8 @@ class VectorTemplate extends BaseTemplate {
 				// using this place to insert extra elements before.
 				echo Html::element( 'div', [ 'id' => 'jump-to-nav' ] );
 				?>
-				<a class="mw-jump-link" href="#mw-head"><?php $this->msg( 'vector-jumptonavigation' ) ?></a>
-				<a class="mw-jump-link" href="#p-search"><?php $this->msg( 'vector-jumptosearch' ) ?></a>
+				<a class="mw-jump-link" href="#mw-head"><?php $this->msg( 'ddms-jumptonavigation' ) ?></a>
+				<a class="mw-jump-link" href="#p-search"><?php $this->msg( 'ddms-jumptosearch' ) ?></a>
 				<?php
 				$this->html( 'bodycontent' );
 
@@ -163,11 +163,11 @@ class VectorTemplate extends BaseTemplate {
 					echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] )
 					?>" <?php
 					echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) )
-					?>></a></div>
+					?>></a></div><div id="navDropDownBar">
 				<?php $this->renderPortals( $this->data['sidebar'] ); ?>
-			</div>
+			</div></div>
 		</div>
-		<?php Hooks::run( 'VectorBeforeFooter' ); ?>
+		<?php Hooks::run( 'ddmsBeforeFooter' ); ?>
 		<div id="footer" role="contentinfo"<?php $this->html( 'userlangattributes' ) ?>>
 			<?php
 			foreach ( $this->getFooterLinks() as $category => $links ) {
@@ -241,7 +241,7 @@ class VectorTemplate extends BaseTemplate {
 					break;
 				case 'TOOLBOX':
 					$this->renderPortal( 'tb', $this->getToolbox(), 'toolbox', 'SkinTemplateToolboxEnd' );
-					Hooks::run( 'VectorAfterToolbox' );
+					Hooks::run( 'ddmsAfterToolbox' );
 					break;
 				case 'LANGUAGES':
 					if ( $this->data['language_urls'] !== false ) {
@@ -265,10 +265,16 @@ class VectorTemplate extends BaseTemplate {
 		if ( $msg === null ) {
 			$msg = $name;
 		}
+
+		if ($name == "tb")
+		{
+			return;
+		}
+
 		$msgObj = $this->getMsg( $msg );
 		$labelId = Sanitizer::escapeIdForAttribute( "p-$name-label" );
 		?>
-		<div class="portal" role="navigation" id="<?php
+		<div  class="dropdown" role="navigation" id="<?php
 		echo htmlspecialchars( Sanitizer::escapeIdForAttribute( "p-$name" ) )
 		?>"<?php
 		echo Linker::tooltip( 'p-' . $name )
@@ -277,7 +283,7 @@ class VectorTemplate extends BaseTemplate {
 				?>"><?php
 				echo htmlspecialchars( $msgObj->exists() ? $msgObj->text() : $msg );
 				?></h3>
-			<div class="body">
+			<div class="dropdown-content">
 				<?php
 				if ( is_array( $content ) ) {
 				?>
@@ -318,7 +324,7 @@ class VectorTemplate extends BaseTemplate {
 			switch ( $element ) {
 				case 'NAMESPACES':
 					?>
-					<div id="p-namespaces" role="navigation" class="vectorTabs<?php
+					<div id="p-namespaces" role="navigation" class="ddmsTabs<?php
 					if ( count( $this->data['namespace_urls'] ) == 0 ) {
 						echo ' emptyPortlet';
 					}
@@ -328,7 +334,7 @@ class VectorTemplate extends BaseTemplate {
 							<?php
 							foreach ( $this->data['namespace_urls'] as $key => $item ) {
 								echo $this->makeListItem( $key, $item, [
-									'vector-wrap' => true,
+									'ddms-wrap' => true,
 								] );
 							}
 							?>
@@ -338,7 +344,7 @@ class VectorTemplate extends BaseTemplate {
 					break;
 				case 'VARIANTS':
 					?>
-					<div id="p-variants" role="navigation" class="vectorMenu<?php
+					<div id="p-variants" role="navigation" class="ddmsMenu<?php
 					if ( count( $this->data['variant_urls'] ) == 0 ) {
 						echo ' emptyPortlet';
 					}
@@ -353,7 +359,7 @@ class VectorTemplate extends BaseTemplate {
 							}
 						}
 						?>
-						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<input type="checkbox" class="ddmsMenuCheckbox" aria-labelledby="p-variants-label" />
 						<h3 id="p-variants-label">
 							<span><?php echo htmlspecialchars( $variantLabel ) ?></span>
 						</h3>
@@ -371,7 +377,7 @@ class VectorTemplate extends BaseTemplate {
 					break;
 				case 'VIEWS':
 					?>
-					<div id="p-views" role="navigation" class="vectorTabs<?php
+					<div id="p-views" role="navigation" class="ddmsTabs<?php
 					if ( count( $this->data['view_urls'] ) == 0 ) {
 						echo ' emptyPortlet';
 					}
@@ -381,8 +387,8 @@ class VectorTemplate extends BaseTemplate {
 							<?php
 							foreach ( $this->data['view_urls'] as $key => $item ) {
 								echo $this->makeListItem( $key, $item, [
-									'vector-wrap' => true,
-									'vector-collapsible' => true,
+									'ddms-wrap' => true,
+									'ddms-collapsible' => true,
 								] );
 							}
 							?>
@@ -392,14 +398,14 @@ class VectorTemplate extends BaseTemplate {
 					break;
 				case 'ACTIONS':
 					?>
-					<div id="p-cactions" role="navigation" class="vectorMenu<?php
+					<div id="p-cactions" role="navigation" class="ddmsMenu<?php
 					if ( count( $this->data['action_urls'] ) == 0 ) {
 						echo ' emptyPortlet';
 					}
 					?>" aria-labelledby="p-cactions-label">
-						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<input type="checkbox" class="ddmsMenuCheckbox" aria-labelledby="p-cactions-label" />
 						<h3 id="p-cactions-label"><span><?php
-							$this->msg( 'vector-more-actions' )
+							$this->msg( 'ddms-more-actions' )
 						?></span></h3>
 						<div class="menu">
 							<ul<?php $this->html( 'userlangattributes' ) ?>>
@@ -460,7 +466,7 @@ class VectorTemplate extends BaseTemplate {
 							<label for="searchInput"><?php $this->msg( 'search' ) ?></label>
 						</h3>
 						<form action="<?php $this->text( 'wgScript' ) ?>" id="searchform">
-							<div<?php echo $this->config->get( 'VectorUseSimpleSearch' ) ? ' id="simpleSearch"' : '' ?>>
+							<div<?php echo $this->config->get( 'ddmsUseSimpleSearch' ) ? ' id="simpleSearch"' : '' ?>>
 								<?php
 								echo $this->makeSearchInput( [ 'id' => 'searchInput' ] );
 								echo Html::hidden( 'title', $this->get( 'searchtitle' ) );
@@ -501,7 +507,7 @@ class VectorTemplate extends BaseTemplate {
 	public function makeLink( $key, $item, $options = [] ) {
 		$html = parent::makeLink( $key, $item, $options );
 		// Add an extra wrapper because our CSS is weird
-		if ( isset( $options['vector-wrap'] ) && $options['vector-wrap'] ) {
+		if ( isset( $options['ddms-wrap'] ) && $options['ddms-wrap'] ) {
 			$html = Html::rawElement( 'span', [], $html );
 		}
 		return $html;
@@ -513,7 +519,7 @@ class VectorTemplate extends BaseTemplate {
 	public function makeListItem( $key, $item, $options = [] ) {
 		// For fancy styling of watch/unwatch star
 		if (
-			$this->config->get( 'VectorUseIconWatch' )
+			$this->config->get( 'ddmsUseIconWatch' )
 			&& ( $key === 'watch' || $key === 'unwatch' )
 		) {
 			$item['class'] = rtrim( 'icon ' . $item['class'], ' ' );
@@ -522,7 +528,7 @@ class VectorTemplate extends BaseTemplate {
 
 		// Add CSS class 'collapsible' to links which are not marked as "primary"
 		if (
-			isset( $options['vector-collapsible'] ) && $options['vector-collapsible'] ) {
+			isset( $options['ddms-collapsible'] ) && $options['ddms-collapsible'] ) {
 			$item['class'] = rtrim( 'collapsible ' . $item['class'], ' ' );
 		}
 

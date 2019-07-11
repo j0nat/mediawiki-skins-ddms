@@ -4,10 +4,10 @@
 			"R12ntech"
 		]
 	},
-	"vector-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
-	"vector-action-move": "ᎯᎲᎾ",
-	"vector-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
-	"vector-view-create": "ᎪᏢᏗ",
-	"vector-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
-	"vector-view-view": "ᎠᎪᎵᏰᏗᏊ"
+	"ddms-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
+	"ddms-action-move": "ᎯᎲᎾ",
+	"ddms-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
+	"ddms-view-create": "ᎪᏢᏗ",
+	"ddms-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
+	"ddms-view-view": "ᎠᎪᎵᏰᏗᏊ"
 }

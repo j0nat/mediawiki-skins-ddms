@@ -5,16 +5,16 @@
 			"Beyronvan"
 		]
 	},
-	"vector-action-addsection": "داسون اضاف بكيد",
-	"vector-action-delete": "پاکسا کردن",
-	"vector-action-move": "جا ڤ جا بۊئیت",
-	"vector-action-protect": "پر و پیم بكيد",
-	"vector-action-undelete": "حذف نبيئني",
-	"vector-action-unprotect": "حمايت آلشت بكيد",
-	"vector-view-create": "راس كردن",
-	"vector-view-edit": "ڤیرایشت",
-	"vector-view-history": "دیاٛن ڤیرگار",
-	"vector-view-view": "هنن",
-	"vector-view-viewsource": "سرچشمه نه بوينيت",
-	"vector-more-actions": "بیشتر"
+	"ddms-action-addsection": "داسون اضاف بكيد",
+	"ddms-action-delete": "پاکسا کردن",
+	"ddms-action-move": "جا ڤ جا بۊئیت",
+	"ddms-action-protect": "پر و پیم بكيد",
+	"ddms-action-undelete": "حذف نبيئني",
+	"ddms-action-unprotect": "حمايت آلشت بكيد",
+	"ddms-view-create": "راس كردن",
+	"ddms-view-edit": "ڤیرایشت",
+	"ddms-view-history": "دیاٛن ڤیرگار",
+	"ddms-view-view": "هنن",
+	"ddms-view-viewsource": "سرچشمه نه بوينيت",
+	"ddms-more-actions": "بیشتر"
 }

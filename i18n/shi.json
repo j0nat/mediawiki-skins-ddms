@@ -5,16 +5,16 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⴰⵜⵜⵢ",
-	"vector-action-protect": "Ḥbu",
-	"vector-action-undelete": "Rard may mayḥiydn",
-	"vector-action-unprotect": "Ḥiyd aḥbu",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"ddms-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"ddms-action-delete": "ⴽⴽⵙ",
+	"ddms-action-move": "ⵙⵎⴰⵜⵜⵢ",
+	"ddms-action-protect": "Ḥbu",
+	"ddms-action-undelete": "Rard may mayḥiydn",
+	"ddms-action-unprotect": "Ḥiyd aḥbu",
+	"ddms-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"ddms-view-edit": "ⵙⵏⴼⵍ",
+	"ddms-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"ddms-view-view": "ⵖⵔ",
+	"ddms-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
+	"ddms-more-actions": "ⵓⴳⴳⴰⵔ"
 }

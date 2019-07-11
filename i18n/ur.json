@@ -12,18 +12,18 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"skinname-vector": "ویکٹر",
-	"vector-skin-desc": "مونوبک کا جدید نسخہ (ورژن) مع شائستہ صورت اور کئی افادیت میں بہتریاں",
-	"vector-action-addsection": "نیا موضوع",
-	"vector-action-delete": "حذف کریں",
-	"vector-action-move": "منتقل کریں",
-	"vector-action-protect": "محفوظ کریں",
-	"vector-action-undelete": "بحال کریں",
-	"vector-action-unprotect": "حفاظت میں تبدیلی",
-	"vector-view-create": "تخلیق کریں",
-	"vector-view-edit": "ترمیم",
-	"vector-view-history": "تاریخچہ",
-	"vector-view-view": "مطالعہ",
-	"vector-view-viewsource": "مسودہ دیکھیے",
-	"vector-more-actions": "مزید"
+	"skinname-ddms": "ویکٹر",
+	"ddms-skin-desc": "مونوبک کا جدید نسخہ (ورژن) مع شائستہ صورت اور کئی افادیت میں بہتریاں",
+	"ddms-action-addsection": "نیا موضوع",
+	"ddms-action-delete": "حذف کریں",
+	"ddms-action-move": "منتقل کریں",
+	"ddms-action-protect": "محفوظ کریں",
+	"ddms-action-undelete": "بحال کریں",
+	"ddms-action-unprotect": "حفاظت میں تبدیلی",
+	"ddms-view-create": "تخلیق کریں",
+	"ddms-view-edit": "ترمیم",
+	"ddms-view-history": "تاریخچہ",
+	"ddms-view-view": "مطالعہ",
+	"ddms-view-viewsource": "مسودہ دیکھیے",
+	"ddms-more-actions": "مزید"
 }

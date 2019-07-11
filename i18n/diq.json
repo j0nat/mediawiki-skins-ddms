@@ -14,18 +14,18 @@
 			"Gambollar"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
-	"vector-action-addsection": "Mewzu vıraze",
-	"vector-action-delete": "Bestere",
-	"vector-action-move": "Bıkırışe",
-	"vector-action-protect": "Bısıtarne",
-	"vector-action-undelete": "Peyser biya",
-	"vector-action-unprotect": "Sıtarnayışi bıvurne",
-	"vector-view-create": "Vıraze",
-	"vector-view-edit": "Bıvırnê",
-	"vector-view-history": "Verênan bıvênê",
-	"vector-view-view": "Bıwanê",
-	"vector-view-viewsource": "Rêçi bıvin",
-	"vector-more-actions": "Tayêna"
+	"skinname-ddms": "Vektor",
+	"ddms-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"ddms-action-addsection": "Mewzu vıraze",
+	"ddms-action-delete": "Bestere",
+	"ddms-action-move": "Bıkırışe",
+	"ddms-action-protect": "Bısıtarne",
+	"ddms-action-undelete": "Peyser biya",
+	"ddms-action-unprotect": "Sıtarnayışi bıvurne",
+	"ddms-view-create": "Vıraze",
+	"ddms-view-edit": "Bıvırnê",
+	"ddms-view-history": "Verênan bıvênê",
+	"ddms-view-view": "Bıwanê",
+	"ddms-view-viewsource": "Rêçi bıvin",
+	"ddms-more-actions": "Tayêna"
 }

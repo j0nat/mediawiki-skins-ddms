@@ -5,16 +5,16 @@
 			"Metsavend"
 		]
 	},
-	"vector-action-addsection": "Поладомс мезень колга корхтамс",
-	"vector-action-delete": "Нардамс",
-	"vector-action-move": "Шашфтомс",
-	"vector-action-protect": "Араламс",
-	"vector-action-undelete": "Мърдафтомс",
-	"vector-action-unprotect": "Араламать полафтомс",
-	"vector-view-create": "Тиемс",
-	"vector-view-edit": "Петнемс",
-	"vector-view-history": "История няфтемс",
-	"vector-view-view": "Морафтомс",
-	"vector-view-viewsource": "Лисьма няфтемс",
-	"vector-more-actions": "Сяда лама"
+	"ddms-action-addsection": "Поладомс мезень колга корхтамс",
+	"ddms-action-delete": "Нардамс",
+	"ddms-action-move": "Шашфтомс",
+	"ddms-action-protect": "Араламс",
+	"ddms-action-undelete": "Мърдафтомс",
+	"ddms-action-unprotect": "Араламать полафтомс",
+	"ddms-view-create": "Тиемс",
+	"ddms-view-edit": "Петнемс",
+	"ddms-view-history": "История няфтемс",
+	"ddms-view-view": "Морафтомс",
+	"ddms-view-viewsource": "Лисьма няфтемс",
+	"ddms-more-actions": "Сяда лама"
 }

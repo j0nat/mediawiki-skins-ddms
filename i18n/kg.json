@@ -4,11 +4,11 @@
 			"Rkupsala"
 		]
 	},
-	"vector-action-delete": "Kufwa",
-	"vector-action-move": "Nata",
-	"vector-action-protect": "Keba",
-	"vector-view-create": "Tunga",
-	"vector-view-edit": "Soba",
-	"vector-view-history": "Tala bansoba",
-	"vector-view-view": "Tânga"
+	"ddms-action-delete": "Kufwa",
+	"ddms-action-move": "Nata",
+	"ddms-action-protect": "Keba",
+	"ddms-view-create": "Tunga",
+	"ddms-view-edit": "Soba",
+	"ddms-view-history": "Tala bansoba",
+	"ddms-view-view": "Tânga"
 }

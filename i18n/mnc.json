@@ -6,13 +6,13 @@
 			"Араси"
 		]
 	},
-	"vector-action-delete": "Dabgire",
-	"vector-action-move": "Guribure",
-	"vector-action-protect": "Karmara",
-	"vector-view-create": "Ilibure",
-	"vector-view-edit": "ᠪᠠᠨᠵᡳᠪᡠᠮᡝ ᠠᡵᠠᡵᠠ",
-	"vector-view-history": "ᡝᡵᡝ ᡧᡠ ᡶᡳᠶᡝᠯᡝᠨ ᡳ ᠰᡠᡩᡠᡵᡳ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ",
-	"vector-view-view": "ᡥᡡᠯᠠᡵᠠ",
-	"vector-view-viewsource": "da šu wen be baicara",
-	"vector-more-actions": "ᡝᠯᡝ ᠯᠪᡩᡠ ᡨᡠᠸᠠᠨᠠᡴᡳ"
+	"ddms-action-delete": "Dabgire",
+	"ddms-action-move": "Guribure",
+	"ddms-action-protect": "Karmara",
+	"ddms-view-create": "Ilibure",
+	"ddms-view-edit": "ᠪᠠᠨᠵᡳᠪᡠᠮᡝ ᠠᡵᠠᡵᠠ",
+	"ddms-view-history": "ᡝᡵᡝ ᡧᡠ ᡶᡳᠶᡝᠯᡝᠨ ᡳ ᠰᡠᡩᡠᡵᡳ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ",
+	"ddms-view-view": "ᡥᡡᠯᠠᡵᠠ",
+	"ddms-view-viewsource": "da šu wen be baicara",
+	"ddms-more-actions": "ᡝᠯᡝ ᠯᠪᡩᡠ ᡨᡠᠸᠠᠨᠠᡴᡳ"
 }

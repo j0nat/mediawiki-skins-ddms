@@ -5,13 +5,13 @@
 			"Jun Misugi"
 		]
 	},
-	"vector-action-addsection": "Aggiungì oggettu",
-	"vector-action-delete": "Canzella",
-	"vector-action-move": "Ippustha",
-	"vector-action-protect": "Pruteggì",
-	"vector-view-create": "Cria",
-	"vector-view-edit": "Mudifigga",
-	"vector-view-history": "Vèdi isthòria",
-	"vector-view-view": "Leggi",
-	"vector-view-viewsource": "Vèdi fonti"
+	"ddms-action-addsection": "Aggiungì oggettu",
+	"ddms-action-delete": "Canzella",
+	"ddms-action-move": "Ippustha",
+	"ddms-action-protect": "Pruteggì",
+	"ddms-view-create": "Cria",
+	"ddms-view-edit": "Mudifigga",
+	"ddms-view-history": "Vèdi isthòria",
+	"ddms-view-view": "Leggi",
+	"ddms-view-viewsource": "Vèdi fonti"
 }

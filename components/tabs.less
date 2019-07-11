@@ -3,12 +3,12 @@
  */
 
 /* Navigation Labels */
-.vectorTabs h3 {
+.ddmsTabs h3 {
 	display: none;
 }
 
 /* Namespaces and Views */
-.vectorTabs {
+.ddmsTabs {
 	float: left;
 	height: 2.5em;
 	.background-image('images/tab-break.png');
@@ -93,7 +93,7 @@
 }
 
 /* Variants and Actions */
-.vectorMenu {
+.ddmsMenu {
 	direction: ltr;
 	float: left;
 	cursor: pointer;
@@ -101,7 +101,7 @@
 	line-height: 1.125em;
 }
 
-#mw-head .vectorMenu h3 {
+#mw-head .ddmsMenu h3 {
 	float: left;
 	.background-image('images/tab-break.png');
 	background-repeat: no-repeat;
@@ -109,14 +109,14 @@
 	font-size: 1em;
 	height: 2.5em;
 	// `padding-right` >= `1px` effectively moves the "background border" outside of the element to
-	// act like a real border. It is necessary for `.vectorMenu .menu` dropdown to align well.
+	// act like a real border. It is necessary for `.ddmsMenu .menu` dropdown to align well.
 	// 0.5em equals `8px` at computed `font-size` of `14px` as visually harmonically with
-	// `padding-left` in `.vectorMenu h3 span`
+	// `padding-left` in `.ddmsMenu h3 span`
 	padding: 0 0.5em 0 0;
 	margin: 0 -1px 0 0;
 }
 
-.vectorMenu h3 {
+.ddmsMenu h3 {
 	span {
 		position: relative;
 		display: block;
@@ -152,17 +152,17 @@
 	}
 }
 
-.vectorMenu .vectorMenuCheckbox:checked + h3 span:after {
+.ddmsMenu .ddmsMenuCheckbox:checked + h3 span:after {
 	transform: scaleY( -1 );
 }
 
-.vectorMenu .vectorMenuCheckbox:focus + h3 {
+.ddmsMenu .ddmsMenuCheckbox:focus + h3 {
 	// Simulate browser focus ring
 	outline: dotted 1px; // Firefox style
 	outline: auto -webkit-focus-ring-color; // Webkit style
 }
 
-.vectorMenu .menu {
+.ddmsMenu .menu {
 	// Match the width of the dropdown "heading" (the tab)
 	min-width: 100%;
 	position: absolute;
@@ -179,16 +179,16 @@
 	z-index: 2;
 }
 
-.vectorMenu:hover .menu {
+.ddmsMenu:hover .menu {
 	display: block;
 }
 // This is in a separate block, so that browsers supporting :hover but not :checked still apply the rule above
 // Support: IE8
-.vectorMenu .vectorMenuCheckbox:checked ~ .menu {
+.ddmsMenu .ddmsMenuCheckbox:checked ~ .menu {
 	display: block;
 }
 
-.vectorMenu ul {
+.ddmsMenu ul {
 	list-style-type: none;
 	list-style-image: none;
 	padding: 0;
@@ -196,14 +196,14 @@
 	text-align: left;
 }
 
-.vectorMenu li {
+.ddmsMenu li {
 	padding: 0;
 	margin: 0;
 	text-align: left;
 	line-height: 1em;
 }
 
-.vectorMenu li a {
+.ddmsMenu li a {
 	display: block;
 	padding: 0.625em;
 	white-space: nowrap;
@@ -212,14 +212,14 @@
 	font-size: 0.8125em;
 }
 
-.vectorMenu li.selected a,
-.vectorMenu li.selected a:visited {
+.ddmsMenu li.selected a,
+.ddmsMenu li.selected a:visited {
 	color: #222;
 	text-decoration: none;
 }
 
 // Invisible checkbox covering the dropdown menu handle
-.vectorMenuCheckbox {
+.ddmsMenuCheckbox {
 	cursor: pointer;
 	position: absolute;
 	top: 0;
@@ -234,7 +234,7 @@
 	display: none;
 }
 
-:not( :checked ) > .vectorMenuCheckbox {
+:not( :checked ) > .ddmsMenuCheckbox {
 	// When the browser supports :checked, display it
 	display: block;
 }

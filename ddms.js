@@ -1,5 +1,5 @@
 /**
- * Vector-specific scripts
+ * ddms-specific scripts
  */
 jQuery( function ( $ ) {
 

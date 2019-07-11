@@ -5,12 +5,12 @@
 			"Ghiutun"
 		]
 	},
-	"vector-action-addsection": "Ny emn",
-	"vector-action-move": "Flytt",
-	"vector-action-protect": "Beskøtt",
-	"vector-view-create": "Oprett",
-	"vector-view-edit": "Redigiir",
-	"vector-view-history": "Sie historik",
-	"vector-view-view": "Läs",
-	"vector-more-actions": "Mier"
+	"ddms-action-addsection": "Ny emn",
+	"ddms-action-move": "Flytt",
+	"ddms-action-protect": "Beskøtt",
+	"ddms-view-create": "Oprett",
+	"ddms-view-edit": "Redigiir",
+	"ddms-view-history": "Sie historik",
+	"ddms-view-view": "Läs",
+	"ddms-more-actions": "Mier"
 }

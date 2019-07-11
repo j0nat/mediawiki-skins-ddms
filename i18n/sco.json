@@ -8,17 +8,17 @@
 			"Macofe"
 		]
 	},
-	"vector-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
-	"vector-action-addsection": "Eik topic",
-	"vector-action-delete": "Delyte",
-	"vector-action-move": "Muiv",
-	"vector-action-protect": "Fend",
-	"vector-action-undelete": "Ondelyte",
-	"vector-action-unprotect": "Chynge protection",
-	"vector-view-create": "Ceaut",
-	"vector-view-edit": "Eedit",
-	"vector-view-history": "See histerie",
-	"vector-view-view": "Read",
-	"vector-view-viewsource": "See Soorce",
-	"vector-more-actions": "Mair"
+	"ddms-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
+	"ddms-action-addsection": "Eik topic",
+	"ddms-action-delete": "Delyte",
+	"ddms-action-move": "Muiv",
+	"ddms-action-protect": "Fend",
+	"ddms-action-undelete": "Ondelyte",
+	"ddms-action-unprotect": "Chynge protection",
+	"ddms-view-create": "Ceaut",
+	"ddms-view-edit": "Eedit",
+	"ddms-view-history": "See histerie",
+	"ddms-view-view": "Read",
+	"ddms-view-viewsource": "See Soorce",
+	"ddms-more-actions": "Mair"
 }

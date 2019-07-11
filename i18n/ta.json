@@ -11,16 +11,16 @@
 			"Kanags"
 		]
 	},
-	"vector-action-addsection": "தலைப்பைச் சேர்",
-	"vector-action-delete": "நீக்குக",
-	"vector-action-move": "நகர்த்தவும்",
-	"vector-action-protect": "காக்கவும்",
-	"vector-action-undelete": "நீக்கத்தை நிறுத்து",
-	"vector-action-unprotect": "காப்பை மாற்று",
-	"vector-view-create": "உருவாக்கவும்",
-	"vector-view-edit": "தொகு",
-	"vector-view-history": "வரலாற்றைக் காட்டவும்",
-	"vector-view-view": "படிக்கவும்",
-	"vector-view-viewsource": "மூலத்தைக் காட்டவும்",
-	"vector-more-actions": "மேலும்"
+	"ddms-action-addsection": "தலைப்பைச் சேர்",
+	"ddms-action-delete": "நீக்குக",
+	"ddms-action-move": "நகர்த்தவும்",
+	"ddms-action-protect": "காக்கவும்",
+	"ddms-action-undelete": "நீக்கத்தை நிறுத்து",
+	"ddms-action-unprotect": "காப்பை மாற்று",
+	"ddms-view-create": "உருவாக்கவும்",
+	"ddms-view-edit": "தொகு",
+	"ddms-view-history": "வரலாற்றைக் காட்டவும்",
+	"ddms-view-view": "படிக்கவும்",
+	"ddms-view-viewsource": "மூலத்தைக் காட்டவும்",
+	"ddms-more-actions": "மேலும்"
 }

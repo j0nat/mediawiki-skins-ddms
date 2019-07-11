@@ -7,11 +7,11 @@
 			"Varvana"
 		]
 	},
-	"vector-action-addsection": "Lisyä teema",
-	"vector-action-move": "Šiirrä",
-	"vector-view-create": "Luaji",
-	"vector-view-edit": "Kohentele",
-	"vector-view-history": "Näytä istorija",
-	"vector-view-view": "Luve",
-	"vector-more-actions": "Vielä"
+	"ddms-action-addsection": "Lisyä teema",
+	"ddms-action-move": "Šiirrä",
+	"ddms-view-create": "Luaji",
+	"ddms-view-edit": "Kohentele",
+	"ddms-view-history": "Näytä istorija",
+	"ddms-view-view": "Luve",
+	"ddms-more-actions": "Vielä"
 }

@@ -6,16 +6,16 @@
 			"Luuva"
 		]
 	},
-	"vector-action-addsection": "Ke chi̍t-ê toān-lo̍h",
-	"vector-action-delete": "Thâi",
-	"vector-action-move": "Sóa khì",
-	"vector-action-protect": "Pó-hō͘",
-	"vector-action-undelete": "chhú-siau thâi tiàu",
-	"vector-action-unprotect": "kái pó-hō·",
-	"vector-view-create": "Khai-sí siá",
-	"vector-view-edit": "Siu-kái",
-	"vector-view-history": "khoàⁿ le̍k-sú",
-	"vector-view-view": "Tha̍k",
-	"vector-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
-	"vector-more-actions": "Koh khoàⁿ"
+	"ddms-action-addsection": "Ke chi̍t-ê toān-lo̍h",
+	"ddms-action-delete": "Thâi",
+	"ddms-action-move": "Sóa khì",
+	"ddms-action-protect": "Pó-hō͘",
+	"ddms-action-undelete": "chhú-siau thâi tiàu",
+	"ddms-action-unprotect": "kái pó-hō·",
+	"ddms-view-create": "Khai-sí siá",
+	"ddms-view-edit": "Siu-kái",
+	"ddms-view-history": "khoàⁿ le̍k-sú",
+	"ddms-view-view": "Tha̍k",
+	"ddms-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
+	"ddms-more-actions": "Koh khoàⁿ"
 }

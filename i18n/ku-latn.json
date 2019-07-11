@@ -7,16 +7,16 @@
 			"George Animal"
 		]
 	},
-	"vector-action-addsection": "Mijarekê lê zêde bike",
-	"vector-action-delete": "Jê bibe",
-	"vector-action-move": "Nav biguherîne",
-	"vector-action-protect": "Biparêze",
-	"vector-action-undelete": "Jê nebe",
-	"vector-action-unprotect": "Parastinê biguherîne",
-	"vector-view-create": "Çêke",
-	"vector-view-edit": "Biguherîne",
-	"vector-view-history": "Dîrokê bibîne",
-	"vector-view-view": "Bixwîne",
-	"vector-view-viewsource": "Çavkaniyan bibîne",
-	"vector-more-actions": "Bêhtir"
+	"ddms-action-addsection": "Mijarekê lê zêde bike",
+	"ddms-action-delete": "Jê bibe",
+	"ddms-action-move": "Nav biguherîne",
+	"ddms-action-protect": "Biparêze",
+	"ddms-action-undelete": "Jê nebe",
+	"ddms-action-unprotect": "Parastinê biguherîne",
+	"ddms-view-create": "Çêke",
+	"ddms-view-edit": "Biguherîne",
+	"ddms-view-history": "Dîrokê bibîne",
+	"ddms-view-view": "Bixwîne",
+	"ddms-view-viewsource": "Çavkaniyan bibîne",
+	"ddms-more-actions": "Bêhtir"
 }

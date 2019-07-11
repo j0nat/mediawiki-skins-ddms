@@ -6,16 +6,16 @@
 			"S4b1nuz E.656"
 		]
 	},
-	"vector-action-addsection": "Azónzi discusción",
-	"vector-action-delete": "Scancella",
-	"vector-action-move": "Mescia",
-	"vector-action-protect": "Protezi",
-	"vector-action-undelete": "Recuppera",
-	"vector-action-unprotect": "Cangia a proteçion",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Modìfica",
-	"vector-view-history": "Cronologîa",
-	"vector-view-view": "Lêzi",
-	"vector-view-viewsource": "Vixualizza wikitesto",
-	"vector-more-actions": "Âtro"
+	"ddms-action-addsection": "Azónzi discusción",
+	"ddms-action-delete": "Scancella",
+	"ddms-action-move": "Mescia",
+	"ddms-action-protect": "Protezi",
+	"ddms-action-undelete": "Recuppera",
+	"ddms-action-unprotect": "Cangia a proteçion",
+	"ddms-view-create": "Crea",
+	"ddms-view-edit": "Modìfica",
+	"ddms-view-history": "Cronologîa",
+	"ddms-view-view": "Lêzi",
+	"ddms-view-viewsource": "Vixualizza wikitesto",
+	"ddms-more-actions": "Âtro"
 }

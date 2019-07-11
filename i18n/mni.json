@@ -4,13 +4,13 @@
 			"Awangba Mangang"
 		]
 	},
-	"vector-action-addsection": "Neinaba hiramda hapchinlu",
-	"vector-action-delete": "ꯀꯛꯊꯠꯄꯥ",
-	"vector-action-move": "ꯂꯦꯡꯍꯟꯕꯥ",
-	"vector-action-protect": "ꯉꯥꯛꯊꯣꯛꯂꯕꯥ",
-	"vector-view-create": "ꯁꯥꯕꯥ",
-	"vector-view-edit": "ꯁꯦꯝꯒꯠꯄꯥ",
-	"vector-view-history": "ꯄꯨꯋꯥꯔꯤ ꯎꯨꯠꯂꯨ",
-	"vector-view-view": "ꯄꯥꯑꯣ",
-	"vector-more-actions": "ꯋꯥꯇꯂꯤ"
+	"ddms-action-addsection": "Neinaba hiramda hapchinlu",
+	"ddms-action-delete": "ꯀꯛꯊꯠꯄꯥ",
+	"ddms-action-move": "ꯂꯦꯡꯍꯟꯕꯥ",
+	"ddms-action-protect": "ꯉꯥꯛꯊꯣꯛꯂꯕꯥ",
+	"ddms-view-create": "ꯁꯥꯕꯥ",
+	"ddms-view-edit": "ꯁꯦꯝꯒꯠꯄꯥ",
+	"ddms-view-history": "ꯄꯨꯋꯥꯔꯤ ꯎꯨꯠꯂꯨ",
+	"ddms-view-view": "ꯄꯥꯑꯣ",
+	"ddms-more-actions": "ꯋꯥꯇꯂꯤ"
 }

@@ -6,16 +6,16 @@
 			"Leeheonjin"
 		]
 	},
-	"vector-action-addsection": "Dagdagan ing pisasabian",
-	"vector-action-delete": "Buran",
-	"vector-action-move": "Iyalis",
-	"vector-action-protect": "Protectan/kambilan",
-	"vector-action-undelete": "Isubli/iurung ya pangabura",
-	"vector-action-unprotect": "Idayu ya panga-protecta",
-	"vector-view-create": "Maglalang",
-	"vector-view-edit": "Alilan",
-	"vector-view-history": "Lawen ya ing amlat",
-	"vector-view-view": "Basan",
-	"vector-view-viewsource": "Lawen ya ing pikuanan",
-	"vector-more-actions": "Maki-mayigit pa"
+	"ddms-action-addsection": "Dagdagan ing pisasabian",
+	"ddms-action-delete": "Buran",
+	"ddms-action-move": "Iyalis",
+	"ddms-action-protect": "Protectan/kambilan",
+	"ddms-action-undelete": "Isubli/iurung ya pangabura",
+	"ddms-action-unprotect": "Idayu ya panga-protecta",
+	"ddms-view-create": "Maglalang",
+	"ddms-view-edit": "Alilan",
+	"ddms-view-history": "Lawen ya ing amlat",
+	"ddms-view-view": "Basan",
+	"ddms-view-viewsource": "Lawen ya ing pikuanan",
+	"ddms-more-actions": "Maki-mayigit pa"
 }

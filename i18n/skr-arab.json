@@ -4,13 +4,13 @@
 			"Saraiki"
 		]
 	},
-	"vector-action-addsection": "نواں موضوع",
-	"vector-action-delete": "مٹاؤ",
-	"vector-action-move": "ٹورو",
-	"vector-action-protect": "بچاؤ",
-	"vector-view-create": "بݨاؤ",
-	"vector-view-edit": "لکھو",
-	"vector-view-history": "تاریخچہ",
-	"vector-view-view": "پڑھو",
-	"vector-more-actions": "ٻئے"
+	"ddms-action-addsection": "نواں موضوع",
+	"ddms-action-delete": "مٹاؤ",
+	"ddms-action-move": "ٹورو",
+	"ddms-action-protect": "بچاؤ",
+	"ddms-view-create": "بݨاؤ",
+	"ddms-view-edit": "لکھو",
+	"ddms-view-history": "تاریخچہ",
+	"ddms-view-view": "پڑھو",
+	"ddms-more-actions": "ٻئے"
 }

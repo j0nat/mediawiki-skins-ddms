@@ -12,16 +12,16 @@
 			"Highlander45temp"
 		]
 	},
-	"vector-action-addsection": "Ӏофтхьабз",
-	"vector-action-delete": "ТегъэкӀ",
-	"vector-action-move": "Хьы",
-	"vector-action-protect": "Иухъумэ",
-	"vector-action-undelete": "УмылъэкӀ",
-	"vector-action-unprotect": "Умыухъумэ",
-	"vector-view-create": "КъэшӀ",
-	"vector-view-edit": "ХэӀэзыхь",
-	"vector-view-history": "Тарихъым eплъ",
-	"vector-view-view": "Едж",
-	"vector-view-viewsource": "Еплъ лъапсэм",
-	"vector-more-actions": "Джыри"
+	"ddms-action-addsection": "Ӏофтхьабз",
+	"ddms-action-delete": "ТегъэкӀ",
+	"ddms-action-move": "Хьы",
+	"ddms-action-protect": "Иухъумэ",
+	"ddms-action-undelete": "УмылъэкӀ",
+	"ddms-action-unprotect": "Умыухъумэ",
+	"ddms-view-create": "КъэшӀ",
+	"ddms-view-edit": "ХэӀэзыхь",
+	"ddms-view-history": "Тарихъым eплъ",
+	"ddms-view-view": "Едж",
+	"ddms-view-viewsource": "Еплъ лъапсэм",
+	"ddms-more-actions": "Джыри"
 }

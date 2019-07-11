@@ -5,16 +5,16 @@
 			"Geopoet"
 		]
 	},
-	"vector-action-addsection": "Idagdag an topic",
-	"vector-action-delete": "puráon",
-	"vector-action-move": "Ibalyó",
-	"vector-action-protect": "Protektaran",
-	"vector-action-undelete": "Bawion sa pagkapara",
-	"vector-action-unprotect": "Ribayan an proteksyon",
-	"vector-view-create": "Magmukna",
-	"vector-view-edit": "Liwatón",
-	"vector-view-history": "Tanawon sa historiya",
-	"vector-view-view": "Basáha",
-	"vector-view-viewsource": "Hilingón an ginikánan",
-	"vector-more-actions": "Kadugangan"
+	"ddms-action-addsection": "Idagdag an topic",
+	"ddms-action-delete": "puráon",
+	"ddms-action-move": "Ibalyó",
+	"ddms-action-protect": "Protektaran",
+	"ddms-action-undelete": "Bawion sa pagkapara",
+	"ddms-action-unprotect": "Ribayan an proteksyon",
+	"ddms-view-create": "Magmukna",
+	"ddms-view-edit": "Liwatón",
+	"ddms-view-history": "Tanawon sa historiya",
+	"ddms-view-view": "Basáha",
+	"ddms-view-viewsource": "Hilingón an ginikánan",
+	"ddms-more-actions": "Kadugangan"
 }
