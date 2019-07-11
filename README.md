@@ -3,10 +3,8 @@
 ## Description
 A re-creation of the GuMaxDD 1.2 skin for MediaWiki 1.32+. Based on the default Vector skin included in MediaWiki 1.32.2.
 
-![Preview1](./screenshots/ddms1.png)
-![Preview1](./screenshots/ddms2.png)
-
-
+<a href="./screenshots/ddms1.png"><img src="./screenshots/ddms1.png" width="466" height="303"></a>
+<a href="./screenshots/ddms2.png"><img src="./screenshots/ddms2.png" width="466" height="303"></a>
 
 ## Installation
 1. Download ddms skin
