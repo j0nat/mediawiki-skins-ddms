@@ -1,9 +1,10 @@
 # Drop Down Menu Skin
 
 ## Description
-A re-creation of the GuMaxDD 1.2 skin for MediaWiki 1.32+. Based on the default Vector skin included in MediaWiki 1.32.2.
+A re-creation of the [Paul Gu GuMaxDD 1.2 skin](http://www.paulgu.com/wiki/Drop_Down_Menu_Series/) which adds drop-down menus to MediaWiki, for MediaWiki 1.32+. Based on the default Vector skin included in MediaWiki release 1.32.2.
 
 <a href="./screenshots/ddms1.png"><img src="./screenshots/ddms1.png" width="466" height="303"></a>
+<br>
 <a href="./screenshots/ddms2.png"><img src="./screenshots/ddms2.png" width="466" height="303"></a>
 
 ## Installation
