@@ -12,6 +12,6 @@ A re-creation of the [Paul Gu GuMaxDD 1.2 skin](http://www.paulgu.com/wiki/Drop_
 
 2. Place the ddms files in a new folder called "ddms" under "skins".
 
-3. OPTIONAL: Set default skin in Preferences.
+3. OPTIONAL: Set default skin in LocalSettings.php.
 
 NOTE: Edit the MediaWiki:sidebar page to make changes to the drop-down menu.
